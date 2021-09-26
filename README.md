@@ -1,5 +1,6 @@
 # Final Project: Running the Deliverer
-####Seungjae (Jason) Lee, Thomas Rogers, Brandon Feng
+#### Seungjae (Jason) Lee, Thomas Rogers, Brandon Feng
+
 The package has algorithm that finds the optimal path for user-assigned set of packages and navigates while avoiding obstacle
 Run the following on each terminal:
 
